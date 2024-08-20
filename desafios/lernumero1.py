@@ -6,7 +6,7 @@ c = n // 100 % 10
 m = n // 1000 % 10
 
 print(f"Analisando  o numero: {n}")
-print(f"Unidades:{u}")
+print(f"Unidade:{u}")
 print(f"Dezena:{d}")
 print(f"Centena:{c}")
 print(f"Milhar:{m}")
